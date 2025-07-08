@@ -1,0 +1,18 @@
+Arquivo .env não encontrado em /home/u560693537/.env
+Arquivo .env não encontrado em /home/u560693537/.env
+2025-07-02 06:49:49 - Erro: Arquivo .env não encontrado em /home/u560693537/domains/lavenderblush-ostrich-209556.hostingersite.com/public_html/../.env
+2025-07-02 06:49:49 - Erro: Arquivo .env não encontrado em /home/u560693537/domains/lavenderblush-ostrich-209556.hostingersite.com/public_html/../.env
+2025-07-02 06:53:55 - Erro: Arquivo .env não encontrado em /home/u560693537/domains/lavenderblush-ostrich-209556.hostingersite.com/public_html/forms/../../.env
+2025-07-02 06:53:55 - Erro: Arquivo .env não encontrado em /home/u560693537/domains/lavenderblush-ostrich-209556.hostingersite.com/public_html/forms/../../.env
+2025-07-02 07:04:22 - ERRO: Caminho real do .env inválido: 
+2025-07-02 07:04:22 - ERRO: Caminho real do .env inválido: 
+2025-07-02 07:08:56 - Erro PHPMailer: SMTP Error: Could not authenticate.
+2025-07-02 07:08:56 - Erro PHPMailer: SMTP Error: Could not authenticate.
+2025-07-02 07:26:36 - ERRO: .env não encontrado em 
+2025-07-02 07:26:36 - ERRO: .env não encontrado em 
+2025-07-02 07:33:15 - ERRO: .env não encontrado em /home/u560693537/domains/lavenderblush-ostrich-209556.hostingersite.com/public_html/../../.env
+2025-07-02 07:33:15 - ERRO: .env não encontrado em /home/u560693537/domains/lavenderblush-ostrich-209556.hostingersite.com/public_html/../../.env
+2025-07-02 07:35:40 - ERRO: .env não encontrado em /home/u560693537/.env
+2025-07-02 07:35:40 - ERRO: .env não encontrado em /home/u560693537/.env
+2025-07-02 07:38:47 - ERRO: .env não encontrado em /home/u560693537/.env
+2025-07-02 07:38:47 - ERRO: .env não encontrado em /home/u560693537/.env
