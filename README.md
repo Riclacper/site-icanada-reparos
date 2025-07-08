@@ -1,6 +1,6 @@
 # 🌐 iCanada Reparos - PWA
 
-Este é o site oficial da **iCanada Reparos**, uma assistência técnica especializada em dispositivos Apple (MacBook, iMac, iPhone, iPad), desenvolvido como um **Progressive Web App (PWA)** moderno e leve.
+Este é o site oficial da **iCanada Reparos**, uma assistência técnica especializada em dispositivos Apple (MacBook, iMac, iPhone, iPad), desenvolvido como um **Progressive Web App (PWA)** moderno e leve. A pasta /assets/img foi removida por quetões de direito de imagem, você pode adicionar as imagens de acordo com o seu propósito.
 
 ## 🚀 Funcionalidades
 
